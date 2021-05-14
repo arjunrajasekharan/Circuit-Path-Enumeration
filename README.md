@@ -10,14 +10,13 @@
 
 
 # Technologies Used:
- Networkx // for graph algorithms
- Python
- Verilog
+ - Networkx // for graph algorithms
+ - Python
+ - Verilog
 
 # Usage
 ```
 python3 main.py <path-to-the-verilog-file>
-
 ```
 
 # Output 
