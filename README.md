@@ -5,7 +5,7 @@
 
 - Input: Verilog file with Gate Level Modelling
 
-- Output: All paths from input to output of the circuit described by the Verilog file and the exported graph
+- Output: All paths from input to output of the circuit enumerated by the Verilog file and the exported graph
 
 
 
@@ -16,7 +16,7 @@
 
 # Usage
 ```
-python3 main.py <path-to-the-verilog-file>
+python3 main.py --verbose VERBOSE <path-to-verilog-file>
 ```
 
 # Output 
